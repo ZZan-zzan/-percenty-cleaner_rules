@@ -29240,11 +29240,6 @@
     "action": "remove_word"
   },
   {
-    "word": "경량",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
     "word": "고양이",
     "type": "forbidden",
     "action": "remove_word"
@@ -29520,11 +29515,6 @@
     "action": "remove_word"
   },
   {
-    "word": "북유럽",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
     "word": "분기",
     "type": "forbidden",
     "action": "remove_word"
@@ -29791,11 +29781,6 @@
   },
   {
     "word": "조리기구",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
-    "word": "주방",
     "type": "forbidden",
     "action": "remove_word"
   },
@@ -49581,16 +49566,6 @@
   },
   {
     "word": "옐로우",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
-    "word": "블랙",
-    "type": "forbidden",
-    "action": "remove_word"
-  },
-  {
-    "word": "화이트",
     "type": "forbidden",
     "action": "remove_word"
   },
